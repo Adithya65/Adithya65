@@ -11,10 +11,11 @@
  - 🤔 I’m looking for help with **AI and OpenCV**
  - 💬 Ask me about **Arduino,IOT,Python**
  - 📫 How to reach me:-
-  > *📄Email: adithyasm@ieee.org
+ 
+  > 📄Email: adithyasm@ieee.org
   
-  >*🎓[LinkedIn](https://www.linkedin.com/in/adithya-s-m-a69ba61a0)
+  >🎓[LinkedIn](https://www.linkedin.com/in/adithya-s-m-a69ba61a0)
   
-  >*📸[Instagram](https://www.instagram.com/adithya.s.m_?r=nametag)
+  >📸[Instagram](https://www.instagram.com/adithya.s.m_?r=nametag)
                      
 
