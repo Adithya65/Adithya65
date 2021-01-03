@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Adithya65/Adithya65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
